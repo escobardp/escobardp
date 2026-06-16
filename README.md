@@ -1,5 +1,5 @@
 # ¡Hola! Soy Daniel Pascal Escobar 👋
-## Senior SAP ABAP Developer & Technical Lead | Enterprise Applications
+## Senior SAP ABAP Developer | Technical Lead | Enterprise Applications | Integrations | Architect
 
 Consultor ABAP Senior y Líder Técnico con más de 20 años de trayectoria en el diseño, desarrollo y optimización de soluciones empresariales críticas dentro del ecosistema SAP. Experto en liderar migraciones hacia **SAP S/4HANA**, impulsando arquitecturas desacopladas bajo el enfoque de **Clean Core** y buenas prácticas de extensibilidad.
 
