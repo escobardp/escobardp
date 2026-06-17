@@ -33,6 +33,8 @@ Destaco por mi experiencia en la gestión técnica de células de desarrollo glo
     *Lógica profunda: migraciones a S/4HANA, Clean Core, middleware fiscal (AFIP, CFE, CFDI) y robótica en C++.*
 *   [📦 **Matriz Completa de Módulos SAP Trabajados**](./modulos-sap.md)
     *Desglose minucioso de requerimientos técnicos y funcionales resueltos por módulo (SD, MM, FI, HR, IS-OIL, etc.).*
+*   [🎓 **Formación, Certificados y Fundamentos**](./educacion-y-comunidad.md)
+    *Mi formación en Ingeniería, dominio de otros lenguajes (C++, Java, DBs) y participación en comunidades técnicas.*
 ---
 
 ### 📨 Conectemos
