@@ -16,6 +16,7 @@ Podés saltar directamente a la tecnología de tu interés haciendo clic en los 
 
 | Cliente | Proyecto / Iniciativa | Rol Técnico-Funcional | Módulos SAP | Versión |
 | :--- | :--- | :--- | :--- | :--- |
+| **Hospital y Universidad Austral** | Implementacion SAP RISE / Mantenimiento y Mejoras.  | Programador Sr. | `SD` `FI` `MM` `HR` | 🌐 **S/4HANA** |
 | **Ancap** | Proyecto Uruguay | Programador Sr. | `SD` `FI` `PP` | 🌐 **S/4HANA** |
 | **Merz** | Proyecto de Mejoras | Programador Sr. / Analista Técnico | `MM` `FI` | 🌐 **S/4HANA** / ECC |
 | **Refratechnik** | Proyecto FE México | Referente ABAP | `SD` `MM` | 🌐 **S/4HANA** |
@@ -27,7 +28,7 @@ Podés saltar directamente a la tecnología de tu interés haciendo clic en los 
 | **Kluber** | Mantenimiento y Mejoras | Líder de Desarrollo | `FI` | 🌐 **S/4HANA** |
 | **Atento** | Mantenimiento y Mejoras | Programador Sr. | `SD` `FI` | 🌐 **S/4HANA** |
 | **Telefónica** | Proyectos Fiori: Teletrabajo, Gastos Menores, Ropa/EPP, Guardería y Mejoras | Líder de Proyecto / Líder de Desarrollo / Sr. Backend | `HR` `PPM` | 🌐 **S/4HANA** |
-| **YPF** | Proyecto CENIT / Mantenimiento y Mejoras Corporativas | Programador Sr. | `MM` `SD` `FI` `HR` | 🌐 **S/4HANA** / ECC 6.0 |
+| **YPF** | Proyecto PUA / CENIT / YER / Mantenimiento y Mejoras Corporativas | Programador Sr. | `MM` `SD` `FI` `HR` | 🌐 **S/4HANA** / ECC 6.0 |
 | **Aegis** | Mantenimiento y Mejoras | Líder de Desarrollo | `FI` | 🌐 **S/4HANA** |
 | **Telefe** | Mantenimiento y Mejoras | Consultor ABAP | `SD` `MM` | 🌐 **S/4HANA** |
 | **Edding** | Mantenimiento y Mejoras | Consultor ABAP | `SD` `MM` | 🌐 **S/4HANA** |
