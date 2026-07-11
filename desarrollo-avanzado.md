@@ -85,10 +85,10 @@ Experiencia comprobada en el diseño, desarrollo de interfaces y mapeo fiscal pa
 *   🇵🇾 **Paraguay:** Cobertura técnica y funcional completa en módulos `SD` y `FI`.
 *   🇨🇷 **Costa Rica:** Cobertura técnica y funcional completa en módulos `MM`, `SD` y `FI`.
 *   🇲🇽 **México:** Cobertura técnica y funcional completa en módulos `MM`, `SD` y `FI`.
-*   🇨🇱 **Chile:** Cobertura técnica y funcional completa en módulos `SD` y `FI`[cite: 4].
-*   🇨🇴 **Colombia:** Cobertura técnica y funcional completa en módulos `MM`, `SD` y `FI`[cite: 4].
-*   🇵🇪 **Perú:** Cobertura técnica y funcional completa en módulos `MM`, `SD` y `FI`[cite: 4].
-*   🇧🇷 **Brasil:** Conocimiento y análisis de la estructura teórica fiscal[cite: 4].
+*   🇨🇱 **Chile:** Cobertura técnica y funcional completa en módulos `SD` y `FI`.
+*   🇨🇴 **Colombia:** Cobertura técnica y funcional completa en módulos `MM`, `SD` y `FI`.
+*   🇵🇪 **Perú:** Cobertura técnica y funcional completa en módulos `MM`, `SD` y `FI`.
+*   🇧🇷 **Brasil:** Conocimiento y análisis de la estructura teórica fiscal.
 
 ---
 
@@ -101,22 +101,23 @@ Experiencia comprobada en el diseño, desarrollo de interfaces y mapeo fiscal pa
 | **Formularios Corporativos** | Adobe Forms basados en XML | 🔴 Teórico |
 | **Soporte Oficial** | Notas OSS (Búsqueda, Implementación Completa y Análisis de Impacto) | 🟢 Avanzado |
 | **Soporte Oficial** | Aplicación Manual de Notas OSS Complejas | 🟡 Intermedio |
-| **Migración de Datos** | LSMW (Creación de programas y migraciones vía Batch Input) | 🔴 Básico |
-| **Migración de Datos** | LSMW (Migraciones avanzadas mediante BAPI e IDOC) | 🔴 Teórico |
-| **Gestión de Datos** | Archiving (Herramienta SARA, Programas de Archivado y de Recuperación) | 🔴 Básico |
+| **Migración de Datos** | Creación de programas y migraciones | 🟢 Avanzado |
+| **Migración de Datos** | LSMW (Creación de rutinas) | 🟢 Avanzado |
+| **Migración de Datos** | LSMW (Migraciones avanzadas mediante BAPI e IDOC) | 🟡 Intermedio |
+| **Gestión de Datos** | Archiving (Herramienta SARA, Programas de Archivado y de Recuperación) | 🟡 Intermedio |
 
 ---
 
 ## 🚀 7. Estrategias de Migración y Upgrades de Plataforma
 Experiencia técnica intermedia en el análisis de impacto, ejecución de ajustes y preparación de código para los siguientes escenarios de transición tecnológica:
 
-*   🔄 **ECC ➡️ ECC (EHP Upgrade):** Ejecución técnica en herramientas **SPAU** y **SPDD**[cite: 4].
-*   🔄 **ECC ➡️ ECC sobre HANA:** Ejecución técnica en herramientas **SPAU** y **SPDD**[cite: 4].
-*   🔄 **ECC ➡️ SAP S/4HANA:** Gestión y remediación técnica de código en herramientas **SPAU** y **SPDD**[cite: 4].
+*   🔄 **ECC ➡️ ECC (EHP Upgrade):** Ejecución técnica en herramientas **SPAU** y **SPDD**.
+*   🔄 **ECC ➡️ ECC sobre HANA:** Ejecución técnica en herramientas **SPAU** y **SPDD**.
+*   🔄 **ECC ➡️ SAP S/4HANA:** Gestión y remediación técnica de código en herramientas **SPAU** y **SPDD**.
 
 ---
 
-## 🌐 8. Entornos y Herramientas Fuera de SAP (No SAP)
+## 🌐 8. Entornos y Herramientas No SAP
 
 | Ecosistema / Suite | Herramienta Específica | Tipo de Uso / Enfoque Técnico | Nivel |
 | :--- | :--- | :--- | :--- |
