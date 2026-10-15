@@ -17,12 +17,12 @@ Para facilitar la lectura del perfil, se utilizan los siguientes indicadores de 
 | Categoría | Herramienta / Tecnología | Nivel |
 | :--- | :--- | :--- |
 | **Entorno de Desarrollo** | ADT (ABAP Development Tools) en Eclipse | 🟢 Avanzado |
-| **Programación** | Programación Orientada a Objetos (POO) | 🟡 Intermedio |
+| **Programación** | Programación Orientada a Objetos (POO) | 🟢 Avanzado |
 | **Reportes Avanzados** | Batch Input, ALV (List, Grid, LVC, Jerárquico) y Tree | 🟢 Avanzado |
-| **Reportes OO** | ALV Orientado a Objetos (ALV - OO) | 🟡 Intermedio |
+| **Reportes OO** | ALV Orientado a Objetos (ALV - OO) | 🟢 Avanzado |
 | **Diccionario de Datos** | Tablas Transparentes, Dominios, Elementos de Datos y Objetos de Bloqueo | 🟢 Avanzado |
 | **Diccionario de Datos** | Vistas (Actualización, Mantenimiento y Eventos) y Ayudas de Búsqueda (Simples/Compuestas) | 🟢 Avanzado |
-| **Diccionario de Datos** | Tablas Pool / Cluster | 🟡 Intermedio |
+| **Diccionario de Datos** | Tablas Pool / Cluster | 🟢 Avanzado |
 | **Desarrollo de Diálogo** | Module Pool, Screen Painter y Reportes Interactivos | 🟢 Avanzado |
 | **Procesamiento en Fondo** | Programación y Monitoreo de Jobs | 🟢 Avanzado |
 | **Diagnóstico y Control** | Debugging Avanzado (Clásico, Nuevo, Update, Externo y Sapscript) | 🟢 Avanzado |
@@ -36,7 +36,7 @@ Para facilitar la lectura del perfil, se utilizan los siguientes indicadores de 
 | **CDS Views** | Core Data Services (Views con Parámetros) | 🔴 Básico |
 | **CDS Views** | Table Functions y Asociaciones | 🔴 Teórico |
 | **Servicios OData** | Definición de Modelos, Publicación y Activación | 🟡 Intermedio |
-| **Servicios OData** | Redefinición de Servicios OData | 🔴 Básico |
+| **Servicios OData** | Redefinición de Servicios OData | 🟡 Intermedio  |
 | **SAP Fiori Backend** | Integración con OData y Módulos de Función Core | 🔴 Básico |
 | **SAP Fiori Backend** | Integración con CDS Views y Monitores de Errores | 🔴 Teórico |
 | **SAP Fiori Frontend** | Debugging de Aplicaciones y Elementos de Interfaz | 🟡 Intermedio |
